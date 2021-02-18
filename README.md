@@ -10,12 +10,9 @@ Tiene implementado un sistema de diferenciación automática que usa el descenso
 Permite visualizar la estructura de la red, guardarla, entrenarla, obtener los pesos y umbrales, cuenta con las principales funciones de activación e igual es bastante sencillo su uso. 
 
 ### Funciones de activación:
-Sigmoide
-\nTangente Hiperbolica
-\nReLU
-\nlineal
+Sigmoide, Tangente Hiperbolica, ReLU, lineal
 
-### Funciones:
+Funciones:
 -La estructura visual de la red puede guardarse como una imagen.
 -Se pueden guardar los pesos y umbrales para ser importados más tarde.
 -Es posible imprimir los pesos y umbrales como texto o en formato de matriz python para una posterior implementación.

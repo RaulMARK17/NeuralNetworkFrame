@@ -1,7 +1,8 @@
 # NeuralNetworkFrame
 
 ### Importante, requiere VisualizeNN, obtener de:
-[VisualizeNN](https://github.com/jzliu-100/visualize-neural-network)
+### [VisualizeNN](https://github.com/jzliu-100/visualize-neural-network)
+### Descargar VisualizeNN.py
 
 Framework para la creación de redes neuronales de una forma sencilla o automática y de tamaño personalizado.
 
@@ -15,7 +16,7 @@ Permite visualizar la estructura de la red, guardarla, entrenarla, obtener los p
 * ReLU
 * lineal
 
-Funciones:
+###Funciones:
 * La estructura visual de la red puede guardarse como una imagen.
 * Se pueden guardar los pesos y umbrales para ser importados más tarde.
 * Es posible imprimir los pesos y umbrales como texto o en formato de matriz python para una posterior implementación.

@@ -11,9 +11,9 @@ Permite visualizar la estructura de la red, guardarla, entrenarla, obtener los p
 
 ### Funciones de activación:
 Sigmoide
-Tangente Hiperbolica
-ReLU
-lineal
+\nTangente Hiperbolica
+\nReLU
+\nlineal
 
 ### Funciones:
 -La estructura visual de la red puede guardarse como una imagen.

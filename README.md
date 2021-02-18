@@ -1,4 +1,8 @@
 # NeuralNetworkFrame
+
+## Importante, requiere VisualizeNN, obtener de:
+https://github.com/jzliu-100/visualize-neural-network
+
 Framework para la creación de redes neuronales de una forma sencilla o automática y de tamaño personalizado.
 
 Tiene implementado un sistema de diferenciación automática que usa el descenso del gradiente para la optimización de las redes por medio de la propagación hacia atrás. 

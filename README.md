@@ -20,7 +20,7 @@ Permite visualizar la estructura de la red, guardarla, entrenarla, obtener los p
 * La estructura visual de la red puede guardarse como una imagen.
 * Se pueden guardar los pesos y umbrales para ser importados más tarde.
 * Es posible imprimir los pesos y umbrales como texto o en formato de matriz python para una posterior implementación.
-* Imprime los pesos y umbrales en matrices o arreglos con formato C para código arduino o C, C+, C++.
+* Imprime los pesos y umbrales en matrices o arreglos con formato C para código arduino o C, C++, C#.
 * Es posible ajustar la taza de aprendizaje o "learning rate" e incluso ponerle un "decay" para que conforme vaya acercandose al minimo de la función de la red(el punto óptimo) el lr vaya disminuyendo y así sea más preciso el entrenamiento.
 
 ### Requiere:

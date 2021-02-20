@@ -474,7 +474,6 @@ class NeuralNetwork:
         \tdestroy(): Permite rehacer una red, borrando su contenido.
         \tPara escalar los valores de los vectores llamar a la función: map(x, in_min, in_max, out_min, out_max)
         \tEsta función no pertenece al objeto NeuralNetwork.
-        \tPara cambiar la función de error llamar al atributo: nombre_objeto.errorF = 'mae', o 'mse'
         """)
 
 def map(x, in_min, in_max, out_min, out_max):
